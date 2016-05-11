@@ -1,6 +1,7 @@
 Welcomme to ArduinoHouse project.
 
 This is a smart home/automation system based on Open source/Open hardware and Arduino platform.
+It documents topology of my (future) house.
 
 Topology:
 - Every switch, light, heater, window blind is wired to a central unit
